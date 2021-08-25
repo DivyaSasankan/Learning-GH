@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B749DE4626D688530093E14E /* MyModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B749DE4526D688530093E14E /* MyModel.swift */; };
 		B76F23B926D45752004B1A11 /* LearningGHApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B76F23B826D45752004B1A11 /* LearningGHApp.swift */; };
 		B76F23BB26D45752004B1A11 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B76F23BA26D45752004B1A11 /* ContentView.swift */; };
 		B76F23BD26D45754004B1A11 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B76F23BC26D45754004B1A11 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B749DE4526D688530093E14E /* MyModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyModel.swift; sourceTree = "<group>"; };
 		B76F23B526D45752004B1A11 /* LearningGH.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LearningGH.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B76F23B826D45752004B1A11 /* LearningGHApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearningGHApp.swift; sourceTree = "<group>"; };
 		B76F23BA26D45752004B1A11 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				B76F23BC26D45754004B1A11 /* Assets.xcassets */,
 				B76F23C126D45754004B1A11 /* Info.plist */,
 				B76F23BE26D45754004B1A11 /* Preview Content */,
+				B749DE4526D688530093E14E /* MyModel.swift */,
 			);
 			path = LearningGH;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B76F23BB26D45752004B1A11 /* ContentView.swift in Sources */,
+				B749DE4626D688530093E14E /* MyModel.swift in Sources */,
 				B76F23B926D45752004B1A11 /* LearningGHApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
